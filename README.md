@@ -53,23 +53,21 @@
 
 ---
 
-## 📊 GitHub Profile Overview
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Language-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-SAP_RAP-007ACC?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hvsn17&theme=highcontrast" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvsn17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hvsn17&theme=highcontrast" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hvsn17&theme=highcontrast&utcOffset=5.5" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/hvsn17/hvsn17?color=0FAAFF&label=Profile_Updates&style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/hvsn17/hvsn17?color=0FAAFF&label=Last_Active&style=flat-square" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hvsn17&theme=highcontrast" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hvsn17&theme=highcontrast" height="180"/>
 </p>
-
----
 
 <p align="center">
   <i>Building the future of enterprise apps with SAP.</i>
