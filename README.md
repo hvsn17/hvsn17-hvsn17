@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1-XWzMwn-ajk1qvTLTYa4-cGya6Z2SKhl/view?usp=sharing">
-    <img src="https://skillicons.dev/icons?i=md" height="45"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/document--v1.png" height="45"/>
   </a>
 </p>
 
