@@ -56,19 +56,27 @@
 ## 📊 Development Progress
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hvsn17&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,tailwind" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvsn17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvsn17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+  <img src="https://img.shields.io/badge/SAP_ABAP-Learning-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAP-In%20Progress-success?style=for-the-badge"/>
 </p>
 
 ---
 
+## 📈 My Journey
+
+- 📘 Currently learning **SAP RAP and ABAP concepts**
+- 🛠 Practicing by building **real-world backend logic**
+- ⚡ Improving problem-solving with **daily coding**
+- 🚀 Focused on becoming **job-ready SAP Developer**
+
+---
+
+## 🎯 Current Focus
+
 <p align="center">
-  <b>Current Focus:</b> Learning SAP RAP 🚀
+  <img src="https://img.shields.io/badge/SAP_RAP-Learning-0FAAFF?style=for-the-badge"/>
 </p>
