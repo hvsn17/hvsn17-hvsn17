@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1-XWzMwn-ajk1qvTLTYa4-cGya6Z2SKhl/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-0FAAFF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=md" height="45"/>
   </a>
 </p>
 
