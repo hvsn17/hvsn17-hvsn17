@@ -8,12 +8,14 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="www.linkedin.com/in/harivarshan-murugan-38284522b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/harivarshan-murugan-38284522b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Varshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/hvsn17">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-hvsn17-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
