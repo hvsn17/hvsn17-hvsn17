@@ -53,30 +53,24 @@
 
 ---
 
-## 📊 Development Progress
+## 📊 GitHub Profile Overview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,tailwind" />
+  <img src="https://img.shields.io/badge/Main_Language-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SAP_RAP-007ACC?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP_ABAP-Learning-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAP-In%20Progress-success?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hvsn17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/hvsn17/hvsn17?color=0FAAFF&label=Profile_Updates&style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/hvsn17/hvsn17?color=0FAAFF&label=Last_Active&style=flat-square" />
 </p>
 
 ---
 
-## 📈 My Journey
-
-- 📘 Currently learning **SAP RAP and ABAP concepts**
-- 🛠 Practicing by building **real-world backend logic**
-- ⚡ Improving problem-solving with **daily coding**
-- 🚀 Focused on becoming **job-ready SAP Developer**
-
----
-
-## 🎯 Current Focus
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP_RAP-Learning-0FAAFF?style=for-the-badge"/>
+  <i>Building the future of enterprise apps with SAP.</i>
 </p>
