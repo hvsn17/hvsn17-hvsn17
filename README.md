@@ -56,11 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/hvsn17?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Asia%2FKolkata&theme=tokyonight" alt="GitHub Metrics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hvsn17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvsn17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/hvsn17?base=0&languages=1&languages.sections=most-used&languages.indepth=true&theme=tokyonight" alt="Languages" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=hvsn17&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
