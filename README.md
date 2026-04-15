@@ -61,15 +61,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvsn17&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvsn17&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
   <i>Consistently learning and improving through daily coding and project building.</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:007ACC&height=120&section=footer"/>
 </p>
