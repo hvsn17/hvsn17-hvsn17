@@ -53,17 +53,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Progress
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hvsn17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvsn17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hvsn17&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=hvsn17&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hvsn17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
 </p>
 
 <p align="center">
-  <i>Consistently learning and improving through daily coding and project building.</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvsn17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <b>Current Focus:</b> Learning SAP RAP 🚀
 </p>
